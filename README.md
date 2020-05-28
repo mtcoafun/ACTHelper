@@ -1,0 +1,11 @@
+## ACTHelper简单介绍
+#### 一个服务于外国学生考试的app，未在AppStore上架
+## 功能介绍
+1. app的欢迎界面，注册账号界面，验证码接受界面，科目信息，试题科目列表和答案列表
+2. Alamofire实现服务器请求
+3. PKHUD实现加载动画
+4. Toaster实现提示框
+5. Qiniu实现向七牛上传用户头像
+## 使用的语言及工具
+1. Swift，Objective-C
+2. 使用cocoapods管理第三方类库
